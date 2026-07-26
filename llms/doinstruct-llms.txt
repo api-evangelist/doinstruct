@@ -1,0 +1,57 @@
+# doinstruct
+
+> doinstruct is an AI-powered training platform that helps companies "make operational excellence part of daily work." It turns internal knowledge and expertise into mobile-first training for frontline and deskless teams, delivered in 35+ languages to improve quality, safety, and compliance across every shift.
+
+doinstruct was founded in Osnabrück, Germany (2021) and is now headquartered in Brooklyn, NY, with an office in Berlin. Its platform serves 400+ frontline teams across food & beverage, logistics, manufacturing, construction, and general compliance, with 400+ ready-made lessons. The site is bilingual — English pages are listed below and their German equivalents live under the `/de/` prefix (e.g. `https://www.doinstruct.com/de/product/genius`).
+
+## Products
+- [Genius](https://www.doinstruct.com/product/genius): AI-powered training creation and translations — turns documents and expert knowledge into ready-to-use courses in minutes.
+- [Training Library](https://www.doinstruct.com/product/training-library): Ready-made training content for frontline operations, with 400+ lessons on safety, hygiene, and compliance.
+- [Manager Experience](https://www.doinstruct.com/product/manager): The control center for training and compliance — assign, track, and document training across teams.
+- [Learner Experience](https://www.doinstruct.com/product/learner): Mobile-first training every frontline employee completes in their own language.
+
+## Solutions
+- [Food & Beverage](https://www.doinstruct.com/solutions/food-and-beverage): Food-safety, hygiene, and HACCP training for food producers and processors.
+- [Logistics](https://www.doinstruct.com/solutions/logistics): Safety and compliance training for warehousing and transport workforces.
+- [Manufacturing](https://www.doinstruct.com/solutions/manufacturing): Onboarding and safety training for production and factory staff.
+- [Construction](https://www.doinstruct.com/solutions/construction): Site-safety and instruction training for construction crews.
+- [Compliance](https://www.doinstruct.com/solutions/compliance): General regulatory and compliance training across industries.
+
+## Company
+- [About](https://www.doinstruct.com/company/about): Mission, story, founders, and locations.
+- [Careers](https://www.doinstruct.com/company/careers): Open roles and life at doinstruct.
+- [Partners](https://www.doinstruct.com/partners): Partner program and integrations.
+- [Contact](https://www.doinstruct.com/contact): Get in touch or request a demo.
+
+## Resources
+- [Blog](https://www.doinstruct.com/resources/blog): Articles on frontline training, AI, safety, and workforce development.
+- [Case Studies](https://www.doinstruct.com/resources/case-studies): Customer stories and measurable results.
+- [Webinars](https://www.doinstruct.com/resources/webinars): Recorded and upcoming webinars.
+- [White Papers](https://www.doinstruct.com/resources/white-papers): In-depth guides on training and compliance topics.
+- [ROI Calculator](https://www.doinstruct.com/calculator): Estimate the value of digital frontline training.
+
+## Case studies
+- [Echterhoff](https://www.doinstruct.com/resources/case-studies/echterhoff): Construction firm that reported 42% fewer jobsite accidents.
+- [DO & CO](https://www.doinstruct.com/resources/case-studies/do-co): Premium airline-catering and hospitality group.
+- [Frischpack](https://www.doinstruct.com/resources/case-studies/frischpack): Food producer and packer.
+- [Sehne](https://www.doinstruct.com/resources/case-studies/sehne): Food/meat processing business.
+- [Bempflinger](https://www.doinstruct.com/resources/case-studies/bempflinger): Food production customer.
+- [Schmitz](https://www.doinstruct.com/resources/case-studies/schmitz): Frontline operations customer.
+
+## Blog
+- [An Operator's Guide to Artificial Intelligence (AI)](https://www.doinstruct.com/resources/blog/an-operators-guide-to-artificial-intelligence-ai)
+- [doinstruct x flip: Training and Communication Working as One](https://www.doinstruct.com/resources/blog/doinstruct-x-flip-training-and-communication-working-as-one)
+- [From Weeks to Minutes: Genius Speeds Up Frontline Training](https://www.doinstruct.com/resources/blog/from-weeks-to-minutes-genius-speeds-up-frontline-training-efforts-drastically)
+- [Preventing Organizational Memory Loss](https://www.doinstruct.com/resources/blog/preventing-organizational-memory-loss-doinstruct)
+
+## Webinars
+- [2025 Launch Webinar](https://www.doinstruct.com/resources/webinars/2025-launch-webinar)
+- [Maximize the Full Potential of Genius](https://www.doinstruct.com/resources/webinars/maximize-the-full-potential-of-genius)
+
+## White papers
+- [HACCP Training Guide](https://www.doinstruct.com/resources/white-papers/haccp-training-guide)
+
+## Optional
+- [Privacy Policy](https://www.doinstruct.com/privacy)
+- [Terms of Service](https://www.doinstruct.com/terms-of-service)
+- [Legal Notice / Imprint](https://www.doinstruct.com/legal)

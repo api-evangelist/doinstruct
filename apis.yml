@@ -1,8 +1,13 @@
 aid: doinstruct
 name: doinstruct
-description: 'doinstruct is a company surfaced as a portfolio company of creandum, hv-capital and added
-  to the API Evangelist network as a stub for enrichment. Sector: saas. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'doinstruct is an AI-powered frontline training and compliance platform for deskless
+  and shift-based workforces. Founded in Osnabrück, Germany in 2021 and now headquartered in Brooklyn,
+  New York with an office in Berlin, it turns internal SOPs, documents, and expert knowledge into
+  mobile-first courses delivered in 35+ languages. Its Genius AI authoring tool, a 400+ lesson training
+  library, a manager dashboard for assigning and documenting training, and a mobile learner experience
+  serve 400+ frontline teams across food & beverage, logistics, manufacturing, construction, and
+  general compliance, with audit-ready reporting for standards such as HACCP, GFSI, and ISO 27001.
+  Backed by Creandum and HV Capital.'
 url: https://raw.githubusercontent.com/api-evangelist/doinstruct/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +16,31 @@ x-backed-by:
 - hv-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://cdn.prod.website-files.com/6a1ee75881fd696aa0062a80/6a4643c4fd30baed73f6a661_Open%20Graph.jpg
 tags:
 - Company
-- Saas
+- SaaS
+- Training
+- Compliance
+- Frontline
+- Learning
+- Workforce
+- Safety
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +50,24 @@ maintainers:
 common:
 - type: Website
   url: https://www.doinstruct.com/
+- type: Blog
+  url: https://www.doinstruct.com/resources/blog
+- type: Support
+  url: https://www.doinstruct.com/contact
+- type: Login
+  url: https://manager.doinstruct.com/
+- type: TermsOfService
+  url: https://www.doinstruct.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.doinstruct.com/privacy
+- type: GitHubOrganization
+  url: https://github.com/doinstruct
+- type: LLMsTxt
+  url: llms/doinstruct-llms.txt
+- type: DomainSecurity
+  url: security/doinstruct-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
